@@ -11,21 +11,6 @@ A simple and powerful Python script to automatically organize any messy folder i
 - Anything unmatched goes into the `Others` folder
 - Clean and simple CLI interface
 
----
-
-## Folder Structure
-
-FileOrganizer/
-│
-├── src/
-│ └── organizer.py
-├── example/
-│ └── messy_folder/
-├── requirements.txt
-└── README.md
-
-
----
 
 ## 🛠 Requirements
 Python 3.x  
@@ -36,7 +21,7 @@ No extra libraries needed (only built-in modules).
 ## ▶️ How to Run
 
 1. Clone this repo:
-git clone https://github.com//FileOrganizer.git ####
+git clone https:/ArnavChoubey/github.com//FileOrganizer.git ####
 
 
 
@@ -83,6 +68,7 @@ Others/
 
 ## 📄 License
 This project is open-source — feel free to use or modify.
+
 
 
 
