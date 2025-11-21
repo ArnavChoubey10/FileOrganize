@@ -21,7 +21,7 @@ No extra libraries needed (only built-in modules).
 ## ▶️ How to Run
 
 1. Clone this repo:
-git clone https:/ArnavChoubey/github.com//FileOrganizer.git ####
+git clone https://github.com/ArnavChoubey/FileOrganizer.git ####
 
 
 
@@ -68,6 +68,7 @@ Others/
 
 ## 📄 License
 This project is open-source — feel free to use or modify.
+
 
 
 
