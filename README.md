@@ -1,4 +1,4 @@
-# File Organizer Script (Python)
+# File Organizer Script 
 
 A simple and powerful Python script to automatically organize any messy folder into categorized subfolders like **Images**, **Videos**, **Documents**, **PDFs**, **Audio**, **Archives**, **Code**, and **Others**.
 
@@ -83,6 +83,7 @@ Others/
 
 ## 📄 License
 This project is open-source — feel free to use or modify.
+
 
 
 
