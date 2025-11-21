@@ -27,7 +27,7 @@ git clone https://github.com/ArnavChoubey/FileOrganizer.git ####
 
 2. Go into project folder:
 
-cd FileOrganizer/src
+cd FileOrganizer
 
 
 3. Run script:
@@ -68,6 +68,7 @@ Others/
 
 ## 📄 License
 This project is open-source — feel free to use or modify.
+
 
 
 
